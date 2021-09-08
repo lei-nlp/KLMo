@@ -1,6 +1,7 @@
 # KLMo
 知识图谱增强的中文预训练模型 KLMo: Knowledge Graph Enhanced Pretrained Language Model with Fine-Grained Relationships
 
+test
 1. 开发环境要求：
   pytorch 1.3.1
   tensorflow 1.14
